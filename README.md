@@ -15,6 +15,10 @@
   </p>
 </p>
 
+## Instalar App 📱
+
+**Link del APK:** [https://drive.google.com/file/d/1iWokSY96HPf9MzhbE5iboXg9nLQyx-b4/view?usp=sharing](https://drive.google.com/file/d/1iWokSY96HPf9MzhbE5iboXg9nLQyx-b4/view?usp=sharing) 
+
 ## Autores ✒️
 
 Gracias a estas maravillosas personas ✅ :
