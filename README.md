@@ -27,7 +27,7 @@ Gracias a estas maravillosas personas ✅ :
     <td align="center"><a href="https://github.com/ATrejo98"><img src="https://avatars.githubusercontent.com/u/119873227?v=4" width="100px;" alt=""/><br /><sub><b>Juan Angel Trejo</b></sub></a><br /><a href="https://github.com/ATrejo98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Damarislara10"><img src="https://avatars.githubusercontent.com/u/156867187?v=4" width="100px;" alt=""/><br /><sub><b>Damaris Muñoz </b></sub></a><br /><a href="https://github.com/Damarislara10" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mrafa2024"><img src="https://avatars.githubusercontent.com/u/158544605?v=4" width="100px;" alt=""/><br /><sub><b>Marlon Bonilla</b></sub></a><br /><a href="https://github.com/Mrafa2024" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/NeptunoH"><img src="https://avatars.githubusercontent.com/u/158544605?v=4" width="100px;" alt=""/><br /><sub><b>Marlon Bonilla</b></sub></a><br /><a href="https://github.com/NeptunoH" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/NeptunoH"><img src="https://avatars.githubusercontent.com/u/122707858?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Perez</b></sub></a><br /><a href="https://github.com/NeptunoH" title="Code">💻</a></td>
 </table>
 
 ## License
