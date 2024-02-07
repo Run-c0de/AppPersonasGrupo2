@@ -37,5 +37,5 @@ Gracias a estas maravillosas personas ✅ :
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2024 © <a href="#" >Yefrin Pacheco</a>.
+- Copyright 2024 © <a href="#" >UTH Android Team</a>.
 
