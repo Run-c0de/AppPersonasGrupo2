@@ -18,20 +18,21 @@ public class DbHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
-
-        sqLiteDatabase.execSQL("CREATE TABLE " + TABLE_PERSONAS + "(" +
+        String queryTemplate = "CREATE TABLE " + TABLE_PERSONAS + "(" +
                 "id INTEGER PRIMARY KEY AUTOINCREMENT," +
                 "nombres TEXT NOT NULL," +
                 "apellidos TEXT NOT NULL," +
                 "edad INTEGER NOT NULL," +
                 "correo TEXT NOT NULL," +
-                "direccion TEXT NOT NULL)");
+                "direccion TEXT NOT NULL)";
+        sqLiteDatabase.execSQL(queryTemplate);
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i1) {
 
-        sqLiteDatabase.execSQL("DROP TABLE " + TABLE_PERSONAS);
+        String queryTemplate = "DROP TABLE " + TABLE_PERSONAS;
+        sqLiteDatabase.execSQL(queryTemplate);
         onCreate(sqLiteDatabase);
 
     }
