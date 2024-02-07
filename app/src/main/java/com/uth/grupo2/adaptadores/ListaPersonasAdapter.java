@@ -49,21 +49,23 @@ public class ListaPersonasAdapter extends RecyclerView.Adapter<ListaPersonasAdap
         if (longitud == 0) {
             listaPersonas.clear();
             listaPersonas.addAll(listaOriginal);
-        } else {
-            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
+            return;
+        }
+
+        boolean isSDKGood = android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N;
+         if (isSDKGood) {
                 List<Personas> collecion = listaPersonas.stream()
                         .filter(i -> i.getNombres().toLowerCase().contains(txtBuscar.toLowerCase()))
                         .collect(Collectors.toList());
                 listaPersonas.clear();
                 listaPersonas.addAll(collecion);
-            } else {
-                for (Personas c : listaOriginal) {
+                return;
+        }
+          for (Personas c : listaOriginal) {
                     if (c.getNombres().toLowerCase().contains(txtBuscar.toLowerCase())) {
                         listaPersonas.add(c);
                     }
                 }
-            }
-        }
         notifyDataSetChanged();
     }
 
