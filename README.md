@@ -25,6 +25,8 @@ Gracias a estas maravillosas personas ✅ :
 		<td align="center"><a href="https://github.com/Isma201451"><img src="https://avatars.githubusercontent.com/u/128327746?v=4" width="100px;" alt=""/><br /><sub><b>Ismael Mayorga</b></sub></a><br /><a href="https://github.com/Isma201451" title="Code">💻</a></td>
 		<td align="center"><a href="https://github.com/Run-c0de"><img src="https://avatars.githubusercontent.com/u/159189980?v=4" width="100px;" alt=""/><br /><sub><b>Ariel Flores</b></sub></a><br /><a href="https://github.com/Run-c0de" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ATrejo98"><img src="https://avatars.githubusercontent.com/u/119873227?v=4" width="100px;" alt=""/><br /><sub><b>Juan Angel Trejo</b></sub></a><br /><a href="https://github.com/ATrejo98" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Damarislara10"><img src="https://avatars.githubusercontent.com/u/156867187?v=4" width="100px;" alt=""/><br /><sub><b>Damaris Muñoz </b></sub></a><br /><a href="https://github.com/Damarislara10" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Mrafa2024"><img src="https://avatars.githubusercontent.com/u/158544605?v=4" width="100px;" alt=""/><br /><sub><b>Marlon Bonilla</b></sub></a><br /><a href="https://github.com/Mrafa2024" title="Code">💻</a></td>
 </table>
 
 ## License
